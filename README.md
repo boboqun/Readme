@@ -5,6 +5,7 @@
 * 好多问题的解决方法是可以复用的，这些实际应用中碰到的问题，很有整理价值。
 * 努力由小白像大神转变，贡献自己的经验和代码
 
-      我的简书地址：http://www.jianshu.com/users/4c67e8be1e3d/latest_articles
-      我的github：https://github.com/boboqun
-      我的csdn博客：http://blog.csdn.net/boboqun
+
+#### 我的简书地址：http://www.jianshu.com/users/4c67e8be1e3d/latest_articles
+#### 我的github：https://github.com/boboqun
+#### 我的csdn博客：http://blog.csdn.net/boboqun
